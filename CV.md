@@ -1,8 +1,9 @@
 ELEOUET Gaëtan
 ===================
 
-Ingénieur Etudes et développement Java en finance
-Expérience 13 ans
+>Ingénieur Etudes et développement Java en finance
+
+>Expérience 13 ans
 
 
 <i class="icon-pencil"></i> Formation
