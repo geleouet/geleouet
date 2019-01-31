@@ -43,23 +43,28 @@ LifeCycle : Service de remontée d'alertes, architecture service par domaine, cy
 
 ####  [Meritis] Société Générale Corporate & Investment Banking (Mai 2011 - Juillet 2015)
 *Conception,  Réalisation*
+
 Domino : application Front de gestion du secondaire, pour produits listés et structurés
 Développement en Java, services, batch et GUI en swing dans une équipe de 20 personnes, mise en place d'intégration continue, découplage des couches de communication, tests fonctionnels décrits via Cucumber, amélioration de la qualité du design applicatif, optimisation mémoire, optimisation des applications "réactives"
 
 ####   [Meritis] BNP Paribas Arbitrage (Avril 2008 - Mai 2011)
 *Conception,  Réalisation*
+
 WMS: suite d'outils développés pour le business Warrants et certifiacts
 Développement rapides, équipe de 3 personnes, conception d'interface en Swing, conception d'API, optimisation temps réel, optimisation mémoire, migration Java5, tests unitaires, scénario de tests fonctionnels, reccueil de besoins, industrialisation des process (gestionnaire de sources, build maven, demos)
 
 ####  [Sii] EADS - MBDA (Mars 2006 -Mai 2006 / Septembre 2006 - Mars 2008 )
 *Conception,  Réalisation*
+
 ATENA-SE, permet de décrire et tester des applicatifs pour les systèmes de bancs de tests, IHM Swing de création d'écran de contrôle et de contrôle de test, création de composants Swing, service Java, tests IHM via QFTests, IDL de communication, profiling, modularisation des composants, IHM orientée service
 
 
 #### [Sii]  SMABTP (Juin 2006 - Août 2006)
 *Conception,  Réalisation*
+
 Projet " contrat dommage ouvrage" , suivi du cycle de vie d'un contrat, service J2e Websphere, framework inHouse HTML, interfacage avec un moteur de workflow, ORM hibernate
 
 ####  T-Systems (Août 2004 - Juin 2005)
 *Année de césure pour stage en Allemagne*
+
 Intégrations de technologies XML dans un projet Java existant, proposition d'une grammaire de fichiers de configuration, parsing XML de modèle UML et génération de code Java correspondant, intégration dans l'existant
