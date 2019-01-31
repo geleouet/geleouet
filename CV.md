@@ -43,7 +43,9 @@ Animateur de communauté de développeurs Meritis
 *Conception, Architecture, Design Appplicatif, Réalisation*
 
 Epix : Plateforme de calcul d'indices propriétaire, backend Java, interface administration en ext.js, script en python 2.7 éxécuté via Jython, mise en oeuvre de tests de non régression automatiques, isolation des services, développement
+
 Stix : Service d'accès à la base de données, CRUD, cache en mémoire, notifications, synchronisation, lock optimiste,  alimentation de fiches pour ElasticSearch
+
 LifeCycle : Service de remontée d'alertes, architecture service par domaine, cycle de vie des alertes, backend SpringBoot, IHM Angular, livraison applicative via Ansible
 
 ####  [Meritis] Société Générale Corporate & Investment Banking (Mai 2011 - Juillet 2015)
