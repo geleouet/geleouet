@@ -32,7 +32,7 @@ Finaliste Meilleur Dev de France 2017/2018/2019
 
 Champion Java BNPParibas 2017
 
-Cours d'architecture Logicielle 5A ESIEA (2017-2018-2019)
+Cours d'architecture Logicielle 5A ESIEA (2017/2018/2019)
 
 Animateur de communauté de développeurs Meritis
 
@@ -41,13 +41,17 @@ Animateur de communauté de développeurs Meritis
 
 
 ####  [Meritis] BForBank (Avril 2019 - Today)
-*Conception, Architecture, Design Appplicatif, Réalisation*
+*Conception, Architecture, Design Appplicatif, Réalisation, Amélioration*
 
 DSP2 : Réglementation ( Directive sur les services de paiement 2), authentification double facteur, accès des APIs aux TPPs
 Développement Java, SpringBoot, Angular.
+
 Amélioration de la qualité de code via pair-programming et code review. 
+
 Relation avec les équipes d'intégration et d'exploitation pour réduire le time to market. 
+
 Participations aux ateliers pour préparer l'architecture moyen terme.
+
 Développement Java, expertise technique, méthodologies
 
 
