@@ -28,11 +28,11 @@ Technologies | Swing, J2EE, ORM, WebServices, XML, Ajax, Angular, Spring
 -------------
 Classé #20 Codingame
 
-Finaliste Meilleur Dev de France 2017/2018
+Finaliste Meilleur Dev de France 2017/2018/2019
 
 Champion Java BNPParibas 2017
 
-Cours d'architecture Logicielle 5A ESIEA
+Cours d'architecture Logicielle 5A ESIEA (2017-2018-2019)
 
 Animateur de communauté de développeurs Meritis
 
