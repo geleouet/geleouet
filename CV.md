@@ -39,7 +39,20 @@ Animateur de communauté de développeurs Meritis
 <i class="icon-file"></i> Expériences
 -------------
 
-####  [Meritis] Exane (Juillet 2015 - Avril 2018)
+
+####  [Meritis] BForBank (Avril 2019 - Today)
+*Conception, Architecture, Design Appplicatif, Réalisation*
+
+DSP2 : Réglementation ( Directive sur les services de paiement 2), authentification double facteur, accès des APIs aux TPPs
+Développement Java, SpringBoot, Angular.
+Amélioration de la qualité de code via pair-programming et code review. 
+Relation avec les équipes d'intégration et d'exploitation pour réduire le time to market. 
+Participations aux ateliers pour préparer l'architecture moyen terme.
+Développement Java, expertise technique, méthodologies
+
+
+####  [Meritis] Exane (Juillet 2015 - Avril 2019)
+
 *Conception, Architecture, Design Appplicatif, Réalisation*
 
 Epix : Plateforme de calcul d'indices propriétaire, backend Java, interface administration en ext.js, script en python 2.7 éxécuté via Jython, mise en oeuvre de tests de non régression automatiques, isolation des services, développement
