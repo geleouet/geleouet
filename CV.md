@@ -36,6 +36,8 @@ Cours d'architecture Logicielle 5A ESIEA (2017/2018/2019)
 
 Animateur de communauté de développeurs Meritis
 
+Kata video TDD https://www.youtube.com/watch?v=uWlSvLV5ygI
+
 <i class="icon-file"></i> Expériences
 -------------
 
