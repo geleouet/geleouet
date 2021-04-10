@@ -1,3 +1,5 @@
+![](https://res.cloudinary.com/egaetan/image/upload/v1618063589/bannier_wpjvdk.png)
+
 > 🌍 In international English
 
 Hi, I'm Gaëtan, Senior Java Developper, Tech-lead. I built a lot of play-toy projects, just for fun. 
