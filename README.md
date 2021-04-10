@@ -6,6 +6,8 @@ Hi, I'm Gaëtan, Senior Java Developper, Tech-lead. I built a lot of play-toy pr
 
 I work at [Meritis](https://meritis.fr) as a Senior Software developper. You can find some of my writing (in french) on [my personal website](https://blog.egaetan.me) or on the [corporate blog](https://meritis.fr/blog)
 
+- 💬 Ask me about anything [here](https://github.com/geleouet/geleouet/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
 ☕ 
 
 > 🥖 En français
@@ -17,8 +19,8 @@ Vous pouvez retrouver certains de mes écrits sur [mon blog perso : *JPeuxPasJeC
 
 ☕
 
-- 💬 Ask me about anything [here](https://github.com/geleouet/geleouet/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
-- 
+- 💬 Discutons de n'importe quoi [ici](https://github.com/geleouet/geleouet/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
 
 > ⏱ Tasks list
 
