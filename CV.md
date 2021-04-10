@@ -41,11 +41,31 @@ Kata video TDD https://www.youtube.com/watch?v=uWlSvLV5ygI
 <i class="icon-file"></i> Expériences
 -------------
 
+####  [Meritis] RTE Réseau Transport Electricité (Janvier 2021 - Today)
+*Architecture, Design Appplicatif, Expertises, Lead*
 
-####  [Meritis] BForBank (Avril 2019 - Today)
+Développement Java, SpringBoot, React, Cassandra, Docker.
+
+Imagrid, outils de modélisation et de simulation de réseau électrique.
+
+Identification de pain-points pour l'application et l'équipe de dev.
+
+Réalisation d'une migration monolith vers services scalables
+
+Mise en place de discussions sur les revues de code
+
+Accompagnement des développeurs par ateliers bonnes pratiques et pair-programming
+
+Développement Java, expertise technique, méthodologies, Lead d'équipe
+
+
+####  [Meritis] BForBank (Avril 2019 - Décembre 2020)
 *Conception, Architecture, Design Appplicatif, Réalisation, Amélioration*
 
+Développeur Senior Java, TechLead
+
 DSP2 : Réglementation ( Directive sur les services de paiement 2), authentification double facteur, accès des APIs aux TPPs
+
 Développement Java, SpringBoot, Angular.
 
 Amélioration de la qualité de code via pair-programming et code review. 
@@ -53,6 +73,8 @@ Amélioration de la qualité de code via pair-programming et code review.
 Relation avec les équipes d'intégration et d'exploitation pour réduire le time to market. 
 
 Participations aux ateliers pour préparer l'architecture moyen terme.
+
+Retour d'expériences et amélioration de méthodologies
 
 Développement Java, expertise technique, méthodologies
 
