@@ -17,10 +17,9 @@ Salut, je suis Gaëtan, developpeur senior Java (ça veut dire...). Je joue souv
 Je travaille chez [Meritis](https://meritis.fr), comme Senior Software Developper et j'y anime régulièrement des événements autour du Craftsmanship ou de compétitions de programmation.
 Vous pouvez retrouver certains de mes écrits sur [mon blog perso : *JPeuxPasJeCode*](https://blog.egaetan.me) ou sur le [blog de Meritis](https://meritis.fr/blog)
 
-☕
-
 - 💬 Discutons de n'importe quoi [ici](https://github.com/geleouet/geleouet/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
+☕
 
 > ⏱ Tasks list
 
