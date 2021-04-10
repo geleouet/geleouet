@@ -17,6 +17,9 @@ Vous pouvez retrouver certains de mes écrits sur [mon blog perso : *JPeuxPasJeC
 
 ☕
 
+- 💬 Ask me about anything [here](https://github.com/geleouet/geleouet/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- 
+
 > ⏱ Tasks list
 
 - [X] Add profile readme
